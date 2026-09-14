@@ -1,0 +1,6 @@
+{
+  "name": "Debat OSIS SMPN 4 Randangan",
+  "description": "Website Interaktif Debat Calon Ketua dan Wakil Ketua OSIS SMP Negeri 4 Randangan Satu Atap",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
